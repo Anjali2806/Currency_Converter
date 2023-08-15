@@ -10,6 +10,6 @@ Created a Currency converter tool where you can convert any countries currency v
 * Java Script
   
 # How to run this project
-* Clone the project using command - git clone 
+* Clone the project using command - git clone https://github.com/Anjali2806/Currency_Converter.git
 * Open the project in your prefered code editor.
 * Run the index.html file in your prefered web browser.
